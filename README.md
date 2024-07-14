@@ -33,29 +33,6 @@
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/AndreasCarvalho1701/AndreasCarvalho1701/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/AndreasCarvalho1701/AndreasCarvalho1701/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/AndreasCarvalho1701/AndreasCarvalho1701/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/AndreasCarvalho1701/AndreasCarvalho1701/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/AndreasCarvalho1701/AndreasCarvalho1701/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
-  </a>
-</div>
-
 <br/><br/>
 
 <hr/>
